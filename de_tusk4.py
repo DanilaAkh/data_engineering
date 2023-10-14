@@ -11,7 +11,7 @@ with open(file_name, 'r', encoding="UTF-8")as csv_file:
         lines.append(line[:-1])
 
 for i in range(len(lines)):
-    avg_salary += int(lines[i][-1][:-1])asd
+    avg_salary += int(lines[i][-1][:-1])
 avg_salary /= len(lines)
 
 for i in range(len(lines)-i):
