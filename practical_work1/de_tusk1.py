@@ -23,6 +23,7 @@ with open(file_name, "r") as f:
     lines = f.readlines()
     line = "".join(lines)
 
+line = marks_to_space(line)
 list_ = line.split()
 out_dict = {}
 
