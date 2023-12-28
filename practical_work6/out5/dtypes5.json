@@ -1,0 +1,12 @@
+{
+    "full_name": "object",
+    "diameter": "float32",
+    "class": "category",
+    "H": "float32",
+    "albedo": "float32",
+    "epoch_cal": "float64",
+    "sigma_e": "float32",
+    "sigma_a": "float32",
+    "sigma_q": "float32",
+    "sigma_i": "float32"
+}

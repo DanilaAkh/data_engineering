@@ -1,0 +1,11 @@
+{
+    "accept_incomplete_resumes": "bool",
+    "salary_from": "float32",
+    "salary_to": "float32",
+    "prof_classes_found": "category",
+    "experience_name": "category",
+    "area_name": "category",
+    "address_lat": "float32",
+    "address_lng": "float32",
+    "has_test": "bool"
+}

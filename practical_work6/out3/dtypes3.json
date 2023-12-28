@@ -1,0 +1,12 @@
+{
+    "MONTH": "uint8",
+    "DAY_OF_WEEK": "uint8",
+    "FLIGHT_NUMBER": "uint16",
+    "TAIL_NUMBER": "category",
+    "ORIGIN_AIRPORT": "category",
+    "DESTINATION_AIRPORT": "category",
+    "DEPARTURE_DELAY": "float32",
+    "ARRIVAL_DELAY": "float32",
+    "CANCELLED": "uint8",
+    "AIRLINE": "category"
+}

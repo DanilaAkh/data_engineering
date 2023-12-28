@@ -1,0 +1,12 @@
+{
+    "CSA": "float32",
+    "Ac_Total": "float64",
+    "CBSA_Name": "category",
+    "BLKGRPCE": "uint8",
+    "D2A_Ranked": "uint8",
+    "D2B_Ranked": "uint8",
+    "D3B_Ranked": "uint8",
+    "D4A_Ranked": "uint8",
+    "TRACTCE": "uint32",
+    "CountHU": "float32"
+}
